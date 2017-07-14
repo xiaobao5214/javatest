@@ -2,5 +2,7 @@
  * Created by jingbao on 2017/7/14.
  */
 public class C {
-  sout;
+    public static void main(String[] args) {
+        System.out.println("sout;");
+    }
 }
