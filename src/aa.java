@@ -6,7 +6,7 @@ public class aa {
     private int age;
 
     public static void main(String[] args) {
-        System.out.println("545434");
+        System.out.println("545434ssssssssssss");
     }
 
     public void setName(String name) {
