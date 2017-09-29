@@ -6,7 +6,7 @@ public class aa {
     private int age;
 
     public static void main(String[] args) {
-        System.out.println("545434ssssssssssss");
+        System.out.println("我来试试cherry-pick命令");
     }
 
     public void setName(String name) {
